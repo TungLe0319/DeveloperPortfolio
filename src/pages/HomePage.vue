@@ -63,7 +63,7 @@ export default {
 <style scoped lang="scss">
 .opening-animation{
   height: 100vh;
-  width: 100%;
+ 
 }
 
 

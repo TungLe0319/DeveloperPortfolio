@@ -672,6 +672,7 @@ img:hover {
     position: static;
     background-color: rgba(27, 82, 95, 0.534) !important;
     backdrop-filter: blur(1px);
+    transform: scale(0.5);
   }
 }
 .project-description-flip {
@@ -681,6 +682,7 @@ img:hover {
     position: static;
     background-color: rgba(27, 82, 95, 0.534) !important;
     backdrop-filter: blur(1px);
+      transform: scale(0.5);
   }
 }
 </style>

@@ -3,7 +3,7 @@
    
     <div class="col-md-12 text-center">
      
-          <h1 class="display-1 font-1 text-dark testing">
+          <h1 class="display-3 font-1 text-dark testing">
             WELCOME TO MY DEVELOPER PORTFOLIO
           </h1>
       

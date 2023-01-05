@@ -8,9 +8,9 @@ import { router } from "./router";
 import { MotionPlugin } from "@vueuse/motion";
 // Vuetify
 
-import Particles from "vue3-particles";
+// import Particles from "vue3-particles";
 
 const root = createApp(App);
 registerGlobalComponents(root);
 
-root.use(router).use(MotionPlugin).use(Particles).mount("#app");
+root.use(router).use(MotionPlugin).mount("#app");

@@ -6,7 +6,7 @@ import { createApp } from "vue";
 import App from "./App.vue";
 import { registerGlobalComponents } from "./registerGlobalComponents";
 import { router } from "./router";
-import { MotionPlugin } from "@vueuse/motion";
+import { MotionPlugin } from "../vueuse/motion";
 // Vuetify
 
 import Particles from "vue3-particles";

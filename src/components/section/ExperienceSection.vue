@@ -208,10 +208,10 @@
 
           <p class="font-1 fs-5 text-light darken-10">
             Projects & work done Listed Below
-            <i
+            <!-- <i
               @click="scrollToProjects()"
               class="mdi mdi-arrow-down-circle fs-1 text-light action"
-            ></i>
+            ></i> -->
           </p>
         </div>
         <div class="row">

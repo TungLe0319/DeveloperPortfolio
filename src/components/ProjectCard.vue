@@ -53,11 +53,11 @@
     </div>
     <div class="content-hover border-0">
       <div class="d-flex justify-content-between">
-        <i
+        <!-- <i
           v-motion-slide-visible-once-bottom
           :delay="400"
           class="mdi mdi-folder fs-3 text-warning"
-        ></i>
+        ></i> -->
         <div class="d-flex align-items-center">
           <GitHubIcon v-motion-slide-visible-once-bottom :delay="100" />
           <a

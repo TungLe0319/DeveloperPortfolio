@@ -12,8 +12,8 @@ import { MotionPlugin } from "../node_modules/@vueuse/motion";
 // Vuetify
 
 
-import Particles from '../node_modules/vue3-particles/dist/index.js'
+// import Particles from '../node_modules/vue3-particles/dist/index.js'
 const root = createApp(App);
 registerGlobalComponents(root);
 
-root.use(router).use(MotionPlugin).use(Particles).mount("#app");
+root.use(router).use(MotionPlugin).mount("#app");

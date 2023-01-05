@@ -6,7 +6,7 @@
   <div
     class="container-fluid hero-image text-center d-flex flex-column justify-content-center align-items-center"
   >
-  <ParticleComponent />
+  <!-- <ParticleComponent /> -->
     <section
     class="locomotive-section container-fluid"
     :style="{ transform: `translateY(-${scrollY}px)` }"

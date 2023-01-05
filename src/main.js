@@ -11,8 +11,8 @@ import { router } from "./router";
 import { MotionPlugin } from "../node_modules/@vueuse/motion";
 // Vuetify
 
-import Particles from "vue3-particles";
 
+import Particles from '../node_modules/vue3-particles'
 const root = createApp(App);
 registerGlobalComponents(root);
 

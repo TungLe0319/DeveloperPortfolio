@@ -12,7 +12,7 @@ import { MotionPlugin } from "../node_modules/@vueuse/motion";
 // Vuetify
 
 
-import Particles from '../node_modules/vue3-particles'
+import Particles from '../node_modules/vue3-particles/dist/index.js'
 const root = createApp(App);
 registerGlobalComponents(root);
 

@@ -1,6 +1,6 @@
-import "../node_modules/@mdi/font/css/materialdesignicons.css";
+// import "../node_modules/@mdi/font/css/materialdesignicons.css";
 
-import "../node_modules/bootstrap/dist/css";
+// import "../node_modules/bootstrap/dist/css";
 // import "../node_modules/@vueuse/motion"
 
 import { createApp } from "/vue";
